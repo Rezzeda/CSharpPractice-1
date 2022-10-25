@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GeekBrains\1SeminarC#\Задача1_1\obj\Debug\net6.0\Задача1_1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GeekBrains\1SeminarC#\Задача1_1\obj\Debug\net6.0\Задача1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GeekBrains\1SeminarC#\Задача1_1\obj\Debug\net6.0\Задача1_1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GeekBrains\1SeminarC#\Задача1_1\obj\Debug\net6.0\Задача1_1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GeekBrains\1SeminarC#\Задача1_1\obj\Debug\net6.0\Задача1_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GeekBrains\1SeminarC#\Задача1_1\bin\Debug\net6.0\Задача1_1.exe
+C:\Users\Admin\Desktop\GeekBrains\1SeminarC#\Задача1_1\bin\Debug\net6.0\Задача1_1.deps.json
+C:\Users\Admin\Desktop\GeekBrains\1SeminarC#\Задача1_1\bin\Debug\net6.0\Задача1_1.runtimeconfig.json
+C:\Users\Admin\Desktop\GeekBrains\1SeminarC#\Задача1_1\bin\Debug\net6.0\Задача1_1.dll
+C:\Users\Admin\Desktop\GeekBrains\1SeminarC#\Задача1_1\bin\Debug\net6.0\Задача1_1.pdb
+C:\Users\Admin\Desktop\GeekBrains\1SeminarC#\Задача1_1\obj\Debug\net6.0\Задача1_1.dll
+C:\Users\Admin\Desktop\GeekBrains\1SeminarC#\Задача1_1\obj\Debug\net6.0\refint\Задача1_1.dll
+C:\Users\Admin\Desktop\GeekBrains\1SeminarC#\Задача1_1\obj\Debug\net6.0\Задача1_1.pdb
+C:\Users\Admin\Desktop\GeekBrains\1SeminarC#\Задача1_1\obj\Debug\net6.0\Задача1_1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GeekBrains\1SeminarC#\Задача1_1\obj\Debug\net6.0\ref\Задача1_1.dll
